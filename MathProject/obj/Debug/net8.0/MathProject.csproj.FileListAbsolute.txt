@@ -1,0 +1,14 @@
+/home/pbierley/code/c#/MathProject/bin/Debug/net8.0/MathProject
+/home/pbierley/code/c#/MathProject/bin/Debug/net8.0/MathProject.deps.json
+/home/pbierley/code/c#/MathProject/bin/Debug/net8.0/MathProject.runtimeconfig.json
+/home/pbierley/code/c#/MathProject/bin/Debug/net8.0/MathProject.dll
+/home/pbierley/code/c#/MathProject/bin/Debug/net8.0/MathProject.pdb
+/home/pbierley/code/c#/MathProject/obj/Debug/net8.0/MathProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbierley/code/c#/MathProject/obj/Debug/net8.0/MathProject.AssemblyInfoInputs.cache
+/home/pbierley/code/c#/MathProject/obj/Debug/net8.0/MathProject.AssemblyInfo.cs
+/home/pbierley/code/c#/MathProject/obj/Debug/net8.0/MathProject.csproj.CoreCompileInputs.cache
+/home/pbierley/code/c#/MathProject/obj/Debug/net8.0/MathProject.dll
+/home/pbierley/code/c#/MathProject/obj/Debug/net8.0/refint/MathProject.dll
+/home/pbierley/code/c#/MathProject/obj/Debug/net8.0/MathProject.pdb
+/home/pbierley/code/c#/MathProject/obj/Debug/net8.0/MathProject.genruntimeconfig.cache
+/home/pbierley/code/c#/MathProject/obj/Debug/net8.0/ref/MathProject.dll

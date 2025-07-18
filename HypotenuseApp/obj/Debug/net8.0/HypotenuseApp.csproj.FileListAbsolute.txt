@@ -1,0 +1,14 @@
+/home/pbierley/code/c#/HypotenuseApp/obj/Debug/net8.0/HypotenuseApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbierley/code/c#/HypotenuseApp/obj/Debug/net8.0/HypotenuseApp.AssemblyInfoInputs.cache
+/home/pbierley/code/c#/HypotenuseApp/obj/Debug/net8.0/HypotenuseApp.AssemblyInfo.cs
+/home/pbierley/code/c#/HypotenuseApp/obj/Debug/net8.0/HypotenuseApp.csproj.CoreCompileInputs.cache
+/home/pbierley/code/c#/HypotenuseApp/bin/Debug/net8.0/HypotenuseApp
+/home/pbierley/code/c#/HypotenuseApp/bin/Debug/net8.0/HypotenuseApp.deps.json
+/home/pbierley/code/c#/HypotenuseApp/bin/Debug/net8.0/HypotenuseApp.runtimeconfig.json
+/home/pbierley/code/c#/HypotenuseApp/bin/Debug/net8.0/HypotenuseApp.dll
+/home/pbierley/code/c#/HypotenuseApp/bin/Debug/net8.0/HypotenuseApp.pdb
+/home/pbierley/code/c#/HypotenuseApp/obj/Debug/net8.0/HypotenuseApp.dll
+/home/pbierley/code/c#/HypotenuseApp/obj/Debug/net8.0/refint/HypotenuseApp.dll
+/home/pbierley/code/c#/HypotenuseApp/obj/Debug/net8.0/HypotenuseApp.pdb
+/home/pbierley/code/c#/HypotenuseApp/obj/Debug/net8.0/HypotenuseApp.genruntimeconfig.cache
+/home/pbierley/code/c#/HypotenuseApp/obj/Debug/net8.0/ref/HypotenuseApp.dll
