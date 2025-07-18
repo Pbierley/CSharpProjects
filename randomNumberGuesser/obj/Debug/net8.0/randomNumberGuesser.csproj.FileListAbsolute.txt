@@ -1,0 +1,15 @@
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/randomNumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/randomNumberGuesser.AssemblyInfoInputs.cache
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/randomNumberGuesser.AssemblyInfo.cs
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/randomNumberGuesser.csproj.CoreCompileInputs.cache
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/randomNumberGuesser.sourcelink.json
+/home/pbierley/code/c#/randomNumberGuesser/bin/Debug/net8.0/randomNumberGuesser
+/home/pbierley/code/c#/randomNumberGuesser/bin/Debug/net8.0/randomNumberGuesser.deps.json
+/home/pbierley/code/c#/randomNumberGuesser/bin/Debug/net8.0/randomNumberGuesser.runtimeconfig.json
+/home/pbierley/code/c#/randomNumberGuesser/bin/Debug/net8.0/randomNumberGuesser.dll
+/home/pbierley/code/c#/randomNumberGuesser/bin/Debug/net8.0/randomNumberGuesser.pdb
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/randomNumberGuesser.dll
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/refint/randomNumberGuesser.dll
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/randomNumberGuesser.pdb
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/randomNumberGuesser.genruntimeconfig.cache
+/home/pbierley/code/c#/randomNumberGuesser/obj/Debug/net8.0/ref/randomNumberGuesser.dll

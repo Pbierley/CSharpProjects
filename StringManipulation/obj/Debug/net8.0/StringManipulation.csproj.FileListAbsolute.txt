@@ -1,0 +1,15 @@
+/home/pbierley/code/c#/StringManipulation/bin/Debug/net8.0/StringManipulation
+/home/pbierley/code/c#/StringManipulation/bin/Debug/net8.0/StringManipulation.deps.json
+/home/pbierley/code/c#/StringManipulation/bin/Debug/net8.0/StringManipulation.runtimeconfig.json
+/home/pbierley/code/c#/StringManipulation/bin/Debug/net8.0/StringManipulation.dll
+/home/pbierley/code/c#/StringManipulation/bin/Debug/net8.0/StringManipulation.pdb
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/StringManipulation.AssemblyInfoInputs.cache
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/StringManipulation.AssemblyInfo.cs
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/StringManipulation.csproj.CoreCompileInputs.cache
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/StringManipulation.sourcelink.json
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/StringManipulation.dll
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/refint/StringManipulation.dll
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/StringManipulation.pdb
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/StringManipulation.genruntimeconfig.cache
+/home/pbierley/code/c#/StringManipulation/obj/Debug/net8.0/ref/StringManipulation.dll
