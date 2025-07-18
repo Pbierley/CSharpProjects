@@ -1,0 +1,15 @@
+/home/pbierley/code/c#/investmentCalculator/bin/Debug/net8.0/investmentCalculator
+/home/pbierley/code/c#/investmentCalculator/bin/Debug/net8.0/investmentCalculator.deps.json
+/home/pbierley/code/c#/investmentCalculator/bin/Debug/net8.0/investmentCalculator.runtimeconfig.json
+/home/pbierley/code/c#/investmentCalculator/bin/Debug/net8.0/investmentCalculator.dll
+/home/pbierley/code/c#/investmentCalculator/bin/Debug/net8.0/investmentCalculator.pdb
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/investmentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/investmentCalculator.AssemblyInfoInputs.cache
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/investmentCalculator.AssemblyInfo.cs
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/investmentCalculator.csproj.CoreCompileInputs.cache
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/investmentCalculator.sourcelink.json
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/investmentCalculator.dll
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/refint/investmentCalculator.dll
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/investmentCalculator.pdb
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/investmentCalculator.genruntimeconfig.cache
+/home/pbierley/code/c#/investmentCalculator/obj/Debug/net8.0/ref/investmentCalculator.dll
