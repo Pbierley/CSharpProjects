@@ -1,0 +1,15 @@
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/methods.AssemblyInfoInputs.cache
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/methods.AssemblyInfo.cs
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/methods.csproj.CoreCompileInputs.cache
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/methods.sourcelink.json
+/home/pbierley/code/c#/methods/bin/Debug/net8.0/methods
+/home/pbierley/code/c#/methods/bin/Debug/net8.0/methods.deps.json
+/home/pbierley/code/c#/methods/bin/Debug/net8.0/methods.runtimeconfig.json
+/home/pbierley/code/c#/methods/bin/Debug/net8.0/methods.dll
+/home/pbierley/code/c#/methods/bin/Debug/net8.0/methods.pdb
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/methods.dll
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/refint/methods.dll
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/methods.pdb
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/methods.genruntimeconfig.cache
+/home/pbierley/code/c#/methods/obj/Debug/net8.0/ref/methods.dll
